@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokencender",
+        "uuid": 3185110,
+        "checksum": "i6d1d5"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
